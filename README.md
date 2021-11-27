@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaletushar222
+- 👋 Hi, I’m tushar
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning redux
 - 💞️ I’m looking to collaborate website development
