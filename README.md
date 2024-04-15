@@ -1,6 +1,6 @@
 - 👋 Hi, I’m tushar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning redux
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate website development
 - 📫 reach me at kaletushar222@gmail.com
 
